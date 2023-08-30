@@ -161,5 +161,3 @@ void MostrarMediaDoArtista()
 }
 
 ExibirOpcoesMenu();
-
-Console.WriteLine("Fim do programa!");  
